@@ -1,12 +1,12 @@
 #  Typesense Theme for WP
 
-## July 17th, 2013 update
+## July 18h, 2013 update
 
 Initial commit of the theme. 
 
 ## What is it?
 
-Typesense is a simple and fluid layout for Wordpress. I used the *HTML5 Reset Theme* to build it (see below). 
+Typesense is a (very) simple and fluid layout for Wordpress. I used the *HTML5 Reset Theme* to build it (see below). 
 
 #### Typesense is extremely light and minimal
 
@@ -16,11 +16,16 @@ If you want to activate the comment feature, just remove the relevant comment sy
 
 #### Typesense uses Georgia and Helvetica Neue 
 
-This theme makes a strong use of the Georgia typeface. This typeface has proven to be one of the most readable (and beautiful, imho) serif typeface included from start in all decent modern computers (Mac, PC, Linux). 
+This theme extensively uses the Georgia typeface. This typeface has proven to be one of the most readable (and beautiful, imho) serif typeface included from start in all decent modern computers (Mac, PC, Linux). 
 
 #### Typesense is easily cusomizable 
 
 DYIers can tweak that theme pretty easily. If you want to use another language than english, .po files are naturally included.
+
+#### Typesense is my first theme
+
+So please be forgiving :)
+I've just started developping my own stuff so I wouldn't expect any magic to happen when installing this theme. It's pretty rough. 
 
 ## HTML 5 Reset Wordpress Theme
 
@@ -32,4 +37,4 @@ Wordpress.org & https://gnu.org/licenses/gpl.html
 
 ## Theme 
 
-You can download this theme for free, do whatever you want with it. The only restriction being: do not sell it or distribute it without the author permission. http://www.matmm.me 
+You can download this theme for free, do whatever you want with it. The only restriction being: do not distribute it without the author permission. http://www.matmm.me 
