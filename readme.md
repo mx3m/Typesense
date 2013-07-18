@@ -8,6 +8,8 @@ Initial commit of the theme.
 
 Typesense is a (very) simple and fluid layout for Wordpress. I used the *HTML5 Reset Theme* to build it (see below). 
 
+You can see a live demo [here](http://www.matmm.me/typesense/demo/)
+
 #### Typesense is extremely light and minimal
 
 This theme doesn't include any social feature such as comments or twitter/facebook share buttons. I genuinely think that those options make people look desperate (unless you are a blog super-star, in which case you probably already have a theme!). +, the Facebook and twitter API are usually pretty slow so, that'd be silly to slow your page down just because of ugly, unessential buttons right? 
