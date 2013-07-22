@@ -1,14 +1,14 @@
 #  Typesense Theme for WP
 
-## July 18h, 2013 update
+## July 22th, 2013 update
 
-Initial commit of the theme. 
+Minor update in the stylesheet.
 
 ## What is it?
 
 Typesense is a (very) simple and fluid layout for Wordpress. I used the *HTML5 Reset Theme* to build it (see below). 
 
-You can see a live demo [here](http://www.matmm.me/typesense/demo/)
+You can see a live demo [here](http://www.matmm.me/typesense/demo/).
 
 #### Typesense is extremely light and minimal
 
