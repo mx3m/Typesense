@@ -189,6 +189,7 @@ ol.commentlist li.thread-odd {}
 	p {font-size: 1.20rem; line-height: 2rem; /*Paragraph spacing*/margin-bottom: 1.9rem;}
 	h2, .entry-title {font-size: 2.5rem; line-height: 1.2; margin: 0 0 0.5em 0;}
 	ul, ol {font-size: 1.20rem;}
+	.pagetitle {font-size: 1.6rem;}
 	.entry-content h1 {font-size: 1.8rem;}
 	.entry-content h2 {font-size: 1.6rem;}
 	.entry-content h3 {font-size: 1.4rem;}
@@ -202,6 +203,7 @@ ol.commentlist li.thread-odd {}
 	#header h1 {font-size: 2em;}
 	.icon-feather {font-size: 3rem;}
 	.post {margin-bottom: 4.5rem!important;}
+	.pagetitle {font-size: 1.4rem;}
 	p {font-size: 1.15rem; line-height: 1.88rem; /*Paragraph spacing*/margin-bottom: 1.7rem;}
 	h2, .entry-title {font-size: 2rem;}
 	h3 {font-size: 1rem; line-height: 1.2em;}
